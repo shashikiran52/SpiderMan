@@ -2,6 +2,7 @@
     <version>59.0</version>
     <types>
         <members>Analytics Cloud Integration User</members>
+        <members>Analytics Cloud Security User</members>
         <members>Identity User</members>
         <name>Profile</name>
     </types>
