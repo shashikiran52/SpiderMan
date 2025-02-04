@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ExplainabilityMsgTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <evaluationResult>Passed</evaluationResult>
+    <expressionSetStepType>Calculation</expressionSetStepType>
+    <expsSetProcessType>Bre</expsSetProcessType>
+    <isDefault>true</isDefault>
+    <masterLabel>Test</masterLabel>
+    <message>Test</message>
+</ExplainabilityMsgTemplate>

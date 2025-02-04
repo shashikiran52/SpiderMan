@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SearchCustomization xmlns="http://soap.sforce.com/2006/04/metadata">
+    <channel>GlobalSearch</channel>
+    <masterLabel>new_query_130173</masterLabel>
+    <profile>test profile 35816</profile>
+</SearchCustomization>

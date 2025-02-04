@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DecisionMatrixDefinitionVersion xmlns="http://soap.sforce.com/2006/04/metadata">
+    <decisionMatrixDefinition>Test_DecisionMatrix</decisionMatrixDefinition>
+    <label>Test_DecisionMatrix V1</label>
+    <startDate>2024-10-17T12:06:54.000Z</startDate>
+    <status>Draft</status>
+    <versionNumber>1</versionNumber>
+</DecisionMatrixDefinitionVersion>

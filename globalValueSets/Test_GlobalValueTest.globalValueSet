@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalValueSet xmlns="http://soap.sforce.com/2006/04/metadata">
+    <customValue>
+        <fullName>ABC</fullName>
+        <default>true</default>
+        <label>ABC</label>
+    </customValue>
+    <customValue>
+        <fullName>DEF</fullName>
+        <default>false</default>
+        <label>DEF</label>
+    </customValue>
+    <customValue>
+        <fullName>GHI</fullName>
+        <default>false</default>
+        <label>GHI</label>
+    </customValue>
+    <customValue>
+        <fullName>JKL</fullName>
+        <default>false</default>
+        <label>JKL</label>
+    </customValue>
+    <customValue>
+        <fullName>MNO</fullName>
+        <default>false</default>
+        <label>MNO</label>
+    </customValue>
+    <customValue>
+        <fullName>PQR</fullName>
+        <default>false</default>
+        <label>PQR</label>
+    </customValue>
+    <masterLabel>Test_GlobalValueTest</masterLabel>
+    <sorted>false</sorted>
+</GlobalValueSet>

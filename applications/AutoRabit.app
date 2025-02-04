@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomApplication xmlns="http://soap.sforce.com/2006/04/metadata">
+    <brand>
+        <headerColor>#0070D2</headerColor>
+        <shouldOverrideOrgTheme>true</shouldOverrideOrgTheme>
+    </brand>
+    <formFactors>Large</formFactors>
+    <isNavAutoTempTabsDisabled>false</isNavAutoTempTabsDisabled>
+    <isNavPersonalizationDisabled>false</isNavPersonalizationDisabled>
+    <isNavTabPersistenceDisabled>false</isNavTabPersistenceDisabled>
+    <label>AutoRabit</label>
+    <navType>Standard</navType>
+    <tabs>standard-CmsExperiences</tabs>
+    <tabs>vaultp1__c</tabs>
+    <tabs>vaultc1__c</tabs>
+    <tabs>vaultc2__c</tabs>
+    <tabs>vaultc3__c</tabs>
+    <tabs>ExternalObject__x</tabs>
+    <tabs>Notification__c</tabs>
+    <tabs>User_Notification__c</tabs>
+    <tabs>CustomObejct1__c</tabs>
+    <tabs>CustomObject2__c</tabs>
+    <tabs>CustomObject3__c</tabs>
+    <tabs>CustObj__c</tabs>
+    <tabs>CustObj2__c</tabs>
+    <tabs>CustObj3__c</tabs>
+    <tabs>testorg__c</tabs>
+    <tabs>dlConfig__c</tabs>
+    <uiType>Lightning</uiType>
+    <utilityBar>AutoRabit_UtilityBar</utilityBar>
+</CustomApplication>

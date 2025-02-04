@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ExpressionSetDefinition xmlns="http://soap.sforce.com/2006/04/metadata">
+    <label>Test_ES</label>
+    <processType>Bre</processType>
+    <template>false</template>
+    <versions>
+        <fullName>Test_ES_V1</fullName>
+        <expressionSetDefinition>Test_ES</expressionSetDefinition>
+        <label>Test_ES V1</label>
+        <processType>Bre</processType>
+        <shouldShowExplExternally>false</shouldShowExplExternally>
+        <startDate>2024-10-17T12:26:34.000Z</startDate>
+        <status>Draft</status>
+        <versionNumber>1</versionNumber>
+    </versions>
+</ExpressionSetDefinition>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MobileApplicationDetail xmlns="http://soap.sforce.com/2006/04/metadata">
+    <applicationInstallUrl>https://test.salesforce.com</applicationInstallUrl>
+    <devicePlatform>android</devicePlatform>
+    <privateApp>false</privateApp>
+    <version>tyty</version>
+</MobileApplicationDetail>

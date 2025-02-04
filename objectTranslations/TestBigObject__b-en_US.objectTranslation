@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <caseValues>
+        <plural>false</plural>
+        <value>TestBigObject</value>
+    </caseValues>
+    <caseValues>
+        <plural>true</plural>
+        <value>TestBigObjects</value>
+    </caseValues>
+    <fields>
+        <label></label>
+        <name>BigObjectField__c</name>
+    </fields>
+    <fields>
+        <label></label>
+        <name>BigObjectNo__c</name>
+    </fields>
+    <startsWith>Vowel</startsWith>
+</CustomObjectTranslation>

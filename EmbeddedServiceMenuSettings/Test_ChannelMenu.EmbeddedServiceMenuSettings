@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmbeddedServiceMenuSettings xmlns="http://soap.sforce.com/2006/04/metadata">
+    <branding>EmbeddedServiceChannelMenu_BrandingSet_1926ff7fb65</branding>
+    <embeddedServiceMenuItems>
+        <channel>Service_Messaging_for_Web</channel>
+        <channelType>EmbeddedMessaging</channelType>
+        <displayOrder>1</displayOrder>
+        <isDisplayedOnPageLoad>true</isDisplayedOnPageLoad>
+        <itemName>Test_Menu1</itemName>
+        <osOptionsHideInIOS>false</osOptionsHideInIOS>
+        <osOptionsHideInLinuxOS>false</osOptionsHideInLinuxOS>
+        <osOptionsHideInMacOS>false</osOptionsHideInMacOS>
+        <osOptionsHideInOtherOS>false</osOptionsHideInOtherOS>
+        <osOptionsHideInWindowsOS>false</osOptionsHideInWindowsOS>
+        <shouldOpenUrlInSameTab>false</shouldOpenUrlInSameTab>
+    </embeddedServiceMenuItems>
+    <isEnabled>true</isEnabled>
+    <masterLabel>Test_ChannelMenu</masterLabel>
+    <site>Test_Experience_Builder</site>
+</EmbeddedServiceMenuSettings>

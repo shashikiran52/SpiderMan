@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmbeddedServiceConfig xmlns="http://soap.sforce.com/2006/04/metadata">
+    <areGuestUsersAllowed>false</areGuestUsersAllowed>
+    <deploymentFeature>Flows</deploymentFeature>
+    <deploymentType>Web</deploymentType>
+    <embeddedServiceCustomLabels>
+        <customLabel>FS_Container_AuthenticationFailure_Title_04IPl000000E9eX_5969236</customLabel>
+        <labelKey>FS_Container_AuthenticationFailure_Title</labelKey>
+    </embeddedServiceCustomLabels>
+    <embeddedServiceFlowConfig>
+        <enabled>true</enabled>
+    </embeddedServiceFlowConfig>
+    <embeddedServiceFlows>
+        <flow>cms_orch__CMS_NotifyRequester</flow>
+        <flowType>FL_Flow</flowType>
+        <isAuthenticationRequired>false</isAuthenticationRequired>
+    </embeddedServiceFlows>
+    <isEnabled>true</isEnabled>
+    <isTermsAndConditionsEnabled>false</isTermsAndConditionsEnabled>
+    <isTermsAndConditionsRequired>false</isTermsAndConditionsRequired>
+    <masterLabel>Test_D</masterLabel>
+    <shouldHideAuthDialog>false</shouldHideAuthDialog>
+    <site>Test_Experience_Builder</site>
+</EmbeddedServiceConfig>

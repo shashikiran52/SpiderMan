@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ExplainabilityActionDefinition xmlns="http://soap.sforce.com/2006/04/metadata">
+    <actionLogSchemaType>Other</actionLogSchemaType>
+    <applicationSubtype>TestASD</applicationSubtype>
+    <applicationType>PublicSector</applicationType>
+    <internal>false</internal>
+    <masterLabel>TestEAD</masterLabel>
+    <processType>TestBPT</processType>
+</ExplainabilityActionDefinition>

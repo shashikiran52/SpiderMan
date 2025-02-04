@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomApplication xmlns="http://soap.sforce.com/2006/04/metadata">
+    <brand>
+        <headerColor>#0070D2</headerColor>
+        <logo>Lead_generation</logo>
+        <logoVersion>1</logoVersion>
+        <shouldOverrideOrgTheme>false</shouldOverrideOrgTheme>
+    </brand>
+    <description>Generate leads faster, and qualify and nurture prospects using best practices.</description>
+    <formFactors>Large</formFactors>
+    <isNavAutoTempTabsDisabled>false</isNavAutoTempTabsDisabled>
+    <isNavPersonalizationDisabled>false</isNavPersonalizationDisabled>
+    <isNavTabPersistenceDisabled>false</isNavTabPersistenceDisabled>
+    <label>Inside Sales</label>
+    <navType>Standard</navType>
+    <profileActionOverrides>
+        <actionName>View</actionName>
+        <content>AudibeneRecord</content>
+        <formFactor>Large</formFactor>
+        <pageOrSobjectType>Audibene__c</pageOrSobjectType>
+        <recordType>Audibene__c.NewRecord</recordType>
+        <type>Flexipage</type>
+        <profile>Admin</profile>
+    </profileActionOverrides>
+    <tabs>standard-home</tabs>
+    <tabs>standard-Lead</tabs>
+    <tabs>standard-Contact</tabs>
+    <tabs>standard-Account</tabs>
+    <tabs>standard-Campaign</tabs>
+    <tabs>Explosive_Precursor_File__c</tabs>
+    <tabs>Audibene__c</tabs>
+    <tabs>vaultp1__c</tabs>
+    <tabs>vaultc1__c</tabs>
+    <tabs>vaultc2__c</tabs>
+    <tabs>vaultc3__c</tabs>
+    <tabs>ExternalObject__x</tabs>
+    <tabs>Notification__c</tabs>
+    <tabs>User_Notification__c</tabs>
+    <tabs>CustomObejct1__c</tabs>
+    <tabs>CustomObject2__c</tabs>
+    <tabs>CustomObject3__c</tabs>
+    <tabs>CustObj__c</tabs>
+    <tabs>CustObj2__c</tabs>
+    <tabs>CustObj3__c</tabs>
+    <tabs>testorg__c</tabs>
+    <tabs>dlConfig__c</tabs>
+    <uiType>Lightning</uiType>
+    <utilityBar>Lead_Generation_UtilityBar</utilityBar>
+</CustomApplication>

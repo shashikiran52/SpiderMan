@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MLPredictionDefinition xmlns="http://soap.sforce.com/2006/04/metadata">
+    <aiApplicationDeveloperName>QAPrediction</aiApplicationDeveloperName>
+    <developerName>mlpd_QAPrediction_1722248523425_v0</developerName>
+    <masterLabel>QAPrediction</masterLabel>
+    <negativeExpression>
+        <filterName>6a4fce2d-16ea-48a0-adb7-7d613d06fe96</filterName>
+        <lhPredictionField>Case.Status</lhPredictionField>
+        <operation>NotEquals</operation>
+        <rhType>String</rhType>
+        <rhValue>Closed</rhValue>
+    </negativeExpression>
+    <positiveExpression>
+        <filterName>183985ea-88d6-42ed-93ad-267f781b4aae</filterName>
+        <lhPredictionField>Case.Status</lhPredictionField>
+        <operation>Equals</operation>
+        <rhType>String</rhType>
+        <rhValue>Closed</rhValue>
+    </positiveExpression>
+    <pushbackField>Case.Einstein_Score__c</pushbackField>
+    <status>Enabled</status>
+    <type>BinaryClassification</type>
+</MLPredictionDefinition>

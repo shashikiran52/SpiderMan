@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PermissionSetGroup xmlns="http://soap.sforce.com/2006/04/metadata">
+    <description>Grants rights required for user access, customizations.</description>
+    <hasActivationRequired>false</hasActivationRequired>
+    <label>991 SWIFT PS Coveo User Group</label>
+    <status>Updated</status>
+</PermissionSetGroup>

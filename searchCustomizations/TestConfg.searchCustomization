@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SearchCustomization xmlns="http://soap.sforce.com/2006/04/metadata">
+    <channel>LWRExperienceSiteSearch</channel>
+    <masterLabel>TestConfg</masterLabel>
+    <objectOverride>
+        <fieldOverride>
+            <fieldApiName>AccountSource</fieldApiName>
+            <searchable>true</searchable>
+        </fieldOverride>
+        <fieldOverride>
+            <fieldApiName>Industry</fieldApiName>
+            <searchable>true</searchable>
+        </fieldOverride>
+        <objectApiName>Account</objectApiName>
+        <rule>
+            <fieldApiName>AccountSource</fieldApiName>
+            <operator>eq</operator>
+            <ruleValue>
+                <value>Other</value>
+            </ruleValue>
+        </rule>
+    </objectOverride>
+    <objectOverride>
+        <fieldOverride>
+            <fieldApiName>Status</fieldApiName>
+            <searchable>true</searchable>
+        </fieldOverride>
+        <fieldOverride>
+            <fieldApiName>Type</fieldApiName>
+            <searchable>true</searchable>
+        </fieldOverride>
+        <objectApiName>Campaign</objectApiName>
+    </objectOverride>
+    <selectedObject>Account</selectedObject>
+    <selectedObject>Campaign</selectedObject>
+</SearchCustomization>

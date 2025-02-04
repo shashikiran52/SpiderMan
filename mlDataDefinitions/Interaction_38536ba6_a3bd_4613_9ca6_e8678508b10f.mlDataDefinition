@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MLDataDefinition xmlns="http://soap.sforce.com/2006/04/metadata">
+    <developerName>Interaction_38536ba6_a3bd_4613_9ca6_e8678508b10f</developerName>
+    <entityDeveloperName>Case</entityDeveloperName>
+    <joinFields>
+        <entity>Case</entity>
+        <field>ParentId</field>
+        <relatedField>
+            <entity>Case</entity>
+            <field>Id</field>
+            <type>Related</type>
+        </relatedField>
+        <type>Join</type>
+    </joinFields>
+    <joinFields>
+        <entity>Case</entity>
+        <field>AccountId</field>
+        <relatedField>
+            <entity>Account</entity>
+            <field>Id</field>
+            <type>Related</type>
+        </relatedField>
+        <type>Join</type>
+    </joinFields>
+    <parentDefinitionDevName>mlrd_0PpPl00000001AbKAI_v0</parentDefinitionDevName>
+    <type>Interaction</type>
+</MLDataDefinition>

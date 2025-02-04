@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LightningBolt xmlns="http://soap.sforce.com/2006/04/metadata">
+    <category>FinancialServices</category>
+    <lightningBoltFeatures>
+        <order>1</order>
+        <title>Test_bolt1</title>
+    </lightningBoltFeatures>
+    <lightningBoltFeatures>
+        <order>2</order>
+        <title>Test_bolt2</title>
+    </lightningBoltFeatures>
+    <lightningBoltImages>
+        <image>Screenshot_20241008_162321</image>
+        <order>1</order>
+    </lightningBoltImages>
+    <lightningBoltImages>
+        <image>Screenshot_18</image>
+        <order>2</order>
+    </lightningBoltImages>
+    <lightningBoltImages>
+        <image>Screenshot_22</image>
+        <order>3</order>
+    </lightningBoltImages>
+    <lightningBoltItems>
+        <name>AIApplication</name>
+        <type>CustomApplication</type>
+    </lightningBoltItems>
+    <masterLabel>Test_bolt</masterLabel>
+    <publisher>Test</publisher>
+    <summary>Test</summary>
+</LightningBolt>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MLDataDefinition xmlns="http://soap.sforce.com/2006/04/metadata">
+    <developerName>Candidate_475247b3_44d3_4d14_812f_d8e25edd572d</developerName>
+    <entityDeveloperName>Account</entityDeveloperName>
+    <includedFields>Account.Name</includedFields>
+    <includedFields>Account.Type</includedFields>
+    <includedFields>Account.RecordTypeId</includedFields>
+    <includedFields>Account.ParentId</includedFields>
+    <includedFields>Account.BillingAddress</includedFields>
+    <includedFields>Account.ShippingAddress</includedFields>
+    <includedFields>Account.Phone</includedFields>
+    <includedFields>Account.Fax</includedFields>
+    <includedFields>Account.AccountNumber</includedFields>
+    <includedFields>Account.Website</includedFields>
+    <includedFields>Account.Industry</includedFields>
+    <includedFields>Account.AnnualRevenue</includedFields>
+    <includedFields>Account.NumberOfEmployees</includedFields>
+    <includedFields>Account.Description</includedFields>
+    <includedFields>Account.Site</includedFields>
+    <includedFields>Account.CurrencyIsoCode</includedFields>
+    <includedFields>Account.OwnerId</includedFields>
+    <includedFields>Account.CreatedById</includedFields>
+    <includedFields>Account.LastModifiedById</includedFields>
+    <includedFields>Account.Jigsaw</includedFields>
+    <includedFields>Account.AccountSource</includedFields>
+    <includedFields>Account.SicDesc</includedFields>
+    <includedFields>Account.BusinessUnit__c</includedFields>
+    <includedFields>Account.AutorabitExtId__c</includedFields>
+    <includedFields>Account.Business_Size__c</includedFields>
+    <includedFields>Account.CustomURL__c</includedFields>
+    <includedFields>Account.Service_Tier__c</includedFields>
+    <parentDefinitionDevName>mlrd_0PpPl00000001AbKAI_v0</parentDefinitionDevName>
+    <type>Candidate</type>
+</MLDataDefinition>

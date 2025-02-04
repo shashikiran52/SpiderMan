@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomApplication xmlns="http://soap.sforce.com/2006/04/metadata">
+    <brand>
+        <headerColor>#0070D2</headerColor>
+        <logo>Sales_operation</logo>
+        <logoVersion>1</logoVersion>
+        <shouldOverrideOrgTheme>false</shouldOverrideOrgTheme>
+    </brand>
+    <description>Customize and automate the sales process, and analyze your data to make informed business decisions.</description>
+    <formFactors>Small</formFactors>
+    <formFactors>Large</formFactors>
+    <isNavAutoTempTabsDisabled>false</isNavAutoTempTabsDisabled>
+    <isNavPersonalizationDisabled>false</isNavPersonalizationDisabled>
+    <isNavTabPersistenceDisabled>false</isNavTabPersistenceDisabled>
+    <label>Sales Operations</label>
+    <navType>Standard</navType>
+    <setupExperience>all</setupExperience>
+    <tabs>standard-home</tabs>
+    <tabs>standard-Dashboard</tabs>
+    <tabs>standard-report</tabs>
+    <tabs>standard-Forecasting3</tabs>
+    <tabs>standard-Pricebook2</tabs>
+    <tabs>standard-Product2</tabs>
+    <tabs>Explosive_Precursor_File__c</tabs>
+    <tabs>parent1__c</tabs>
+    <tabs>parent2__c</tabs>
+    <tabs>parent3__c</tabs>
+    <tabs>parent4__c</tabs>
+    <tabs>child1__c</tabs>
+    <tabs>child2__c</tabs>
+    <tabs>child3__c</tabs>
+    <tabs>child4__c</tabs>
+    <tabs>child5__c</tabs>
+    <tabs>parent5__c</tabs>
+    <tabs>parent6__c</tabs>
+    <tabs>junctionObj__c</tabs>
+    <tabs>vaultp1__c</tabs>
+    <tabs>vaultc1__c</tabs>
+    <tabs>vaultc2__c</tabs>
+    <tabs>vaultc3__c</tabs>
+    <tabs>ExternalObject__x</tabs>
+    <tabs>Notification__c</tabs>
+    <tabs>User_Notification__c</tabs>
+    <tabs>CustomObejct1__c</tabs>
+    <tabs>CustomObject2__c</tabs>
+    <tabs>CustomObject3__c</tabs>
+    <tabs>CustObj__c</tabs>
+    <tabs>CustObj2__c</tabs>
+    <tabs>CustObj3__c</tabs>
+    <tabs>testorg__c</tabs>
+    <tabs>dlConfig__c</tabs>
+    <uiType>Lightning</uiType>
+    <utilityBar>Sales_Operations_UtilityBar</utilityBar>
+</CustomApplication>
